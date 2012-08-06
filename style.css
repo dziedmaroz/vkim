@@ -22,3 +22,9 @@
 	box-shadow:         3px 5px 5px 0px #ccc;
 	display:none;
 }
+
+
+#left_ads
+{
+	visibility:hidden;
+}
