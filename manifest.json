@@ -1,7 +1,7 @@
 {
-  "name": "gthtdtlb",
+  "name": "vkim",
   "version": "0.0.1",
-  "description": "Переводит текст набранный английской раскладкой на русскую",
+  "description": "VK Improved. Some improvements for vk.com",
   "manifest_version": 2,
   "permissions": [
     "http://*/", "https://*/", "tabs"
